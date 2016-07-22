@@ -66,6 +66,7 @@ pagination_dir: page
 theme: jacman
 
 compress: true
+baseurl : /
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
